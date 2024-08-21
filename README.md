@@ -6,4 +6,4 @@
 
 - O Launcher será desenvolvido em React Native.
 
-- A IDE utilizada será o AndroidStudio.
+- A IDE utilizada será decidida ainda.
