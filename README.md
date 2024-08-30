@@ -7,3 +7,5 @@
 - O Launcher será desenvolvido em React Native.
 
 - O principal desafio do Launcher é integrar o React com a Api do Pojav.
+
+- O Front-End do App deve ser manipulado através do React.
