@@ -8,4 +8,4 @@
 
 - O principal desafio do Launcher é integrar o React com a Api do Pojav.
 
-- O Front-End do App deve ser manipulado através do React.
+- O Front-End do App deve ser manipulado através do React-Native.
