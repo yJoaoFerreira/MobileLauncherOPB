@@ -4,6 +4,6 @@
 
 - O Launcher será desenvolvido em React-Native (JS).
 
-- O principal desafio do Launcher é integrar o React-Native com a API do PojavLauncher.
+- O principal desafio do Launcher é integrar o React-Native com a API do PojavLauncher (C & Java).
 
 - O Front-End do App deve ser manipulado através do React-Native (JS).
